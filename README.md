@@ -4,9 +4,9 @@ Bij dit project wordt er een Slaapkamer Comfort-Regelsysteem gesimuleerd. Het re
 ## Gekozen sensoren en actuatoren
 - Sensoren: 
   - BH1750 (Licht)
-  - DHT11 (Temperatuur)
+  - DHT11  (Temperatuur)
 - Actuatoren:
-  - Generieke Koelunit (Aan/Uit)
-  - Generieke Rolluikmotor (Aan/Uit)
+  - Generieke Koelunit     (Aan/Uit/Status)
+  - Generieke Rolluikmotor (Aan/Uit/Status)
  
 ## ...
