@@ -1,0 +1,1 @@
+g++ -shared -o clibrary.so -fPIC ./sources/B* ./sources/K* ./sources/R*
